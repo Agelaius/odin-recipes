@@ -4,7 +4,5 @@ th, td {
   }
 
 span {
-  display: inline-block;
-  width: 10px;
-  text-align: right;
+  float: right;
   }
