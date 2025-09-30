@@ -1,4 +1,8 @@
-    th, td {
-      padding: 15px;
-      text-align: left;
-    }
+th, td {
+  text-align: left;
+  padding: 8px;
+  }
+
+span {
+  text-align: right;
+  }
