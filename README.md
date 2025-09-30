@@ -1,2 +1,3 @@
 # odin-recipes
-An odin project where I create a recipe in HTML
+In this project, I will create a recipe using HTML, 
+in doing so putting my introductory education in HTML, and by extension, git, to practice.
