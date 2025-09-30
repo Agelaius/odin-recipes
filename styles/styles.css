@@ -1,8 +1,12 @@
 th, td {
   text-align: left;
   padding: 8px;
-  }
+}
 
 span {
   float: right;
-  }
+}
+
+img {
+  align-self: center;
+}
